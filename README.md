@@ -60,3 +60,4 @@ This project uses Vite with the React plugin for fast development. The developme
 ## Building for Production
 
 Run `npm run build` to create an optimized production build in the `dist` folder.
+# ReactApp
